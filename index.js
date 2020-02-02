@@ -23,4 +23,8 @@ function sayHiToGrandma(greeting){
   if (greeting.toLowerCase() === greeting){
     return "I can\'t hear you!"
   }
+  else if (greeting.toUpperCase() === greeting){
+    return "YES INDEED!
+  }
+  else if ()
 }
